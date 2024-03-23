@@ -4,6 +4,7 @@ export const metadata = {
 };
 
 export default function About() {
+  // throw new Error("Error occurred in about page");
   return (
     <div>
       <h1 className="text-3xl text-gray-800">About Page</h1>
